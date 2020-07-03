@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assesment</string>
+    <string name="subtitles_here">SubTitles Here</string>
+    <string name="title">Title Here</string>
+    <string name="content">content</string>
+    <string name="image">image</string>
+</resources>
